@@ -1,16 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sreeman Sajib Chandra Das</h1>
-<h3 align="center">Industrial IT student passionate about Web Development & Cybersecurity</h3>
+# Hi, I'm Sreeman Sajib Chandra Das 👋
 
-- 🔭 I’m currently studying **Industrial Information Technology at Lab University of Applied Sciences**
+🎓 **Industrial IT Student | 📊 Aspiring Data Analyst**
 
-- 🌱 I’m currently learning **Python**
+I'm studying **Industrial Information Technology** at LAB University of Applied Sciences and currently building my skills in **Data Analytics**.
 
-- 📫 How to reach me **dsajib318@gmail.com**
+My journey started with programming and web development, but my current focus is on working with data — learning how to clean, analyze, visualize, and turn it into meaningful insights.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sreeman-sajib-chandra-das-331258241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreeman-sajib-chandra-das-331258241" height="30" width="40" /></a>
-</p>
+I'm developing these skills through **university coursework, a Data Analytics bootcamp, and hands-on projects**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Skills & Tools
+
+**Data Analysis:** Excel • Python • Pandas • Jupyter Notebook
+**Databases:** SQL • SQLite
+**Visualization:** Matplotlib
+**Tools:** Git • GitHub • VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Excel for Data Analysis
+- SQL for Data Analysis
+- Python & Pandas
+- Data Cleaning & Visualization
+- Data Pipeline Fundamentals
+
+---
+
+## 🚀 Current Project
+
+### ⚡ Electric Powertrain Modeling, Energy Analytics & Pilot Design
+
+I'm currently participating in a **LAB RDI project** focused on the design and development of a **digital twin of an electric vehicle powertrain** for an e-mobility showroom.
+
+The project brings together areas such as:
+
+- Energy and data analytics
+- System modeling
+- Simulation
+- Validation
+- Digital twin concepts
+- Multidisciplinary teamwork
+
+Through this project, I'm gaining practical experience in applying technology and analytical thinking to a real engineering use case.
+
+---
+
+## 📚 Additional Learning
+
+Alongside my university studies, I'm completing a **Data Analytics bootcamp** and strengthening my skills through practical exercises and small projects.
+
+My goal is to gradually build end-to-end Data Analytics projects using real-world datasets.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [dsajib318@gmail.com](mailto:dsajib318@gmail.com)
+
+---
+
+*Learning step by step, working with real data, and building projects along the way. 🚀*
