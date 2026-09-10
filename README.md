@@ -58,7 +58,7 @@ My goal is to gradually build end-to-end Data Analytics projects using real-worl
 
 ## 📫 Connect With Me
 
-📧 **Email:** [dsajib318@gmail.com](mailto:dsajib318@gmail.com)
+📧 **Email:** [sreemansajib@gmail.com](mailto:sreemansajib@gmail.com)
 
 ---
 
